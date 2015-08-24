@@ -1,4 +1,5 @@
 <resources>
     <drawable name="menu_dropdown_panel">#0288D1</drawable>
     <drawable name="blue_action_bar_background">#0288D1</drawable>
+    <drawable name="buttonColor">#0091EA</drawable>
 </resources>
