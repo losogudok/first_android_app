@@ -9,4 +9,5 @@
     <string name="app_4">Build It Bigger</string>
     <string name="app_5">XYZ Reader</string>
     <string name="app_6">Capstone</string>
+    <string name="toast_message">This button will display</string>
 </resources>
